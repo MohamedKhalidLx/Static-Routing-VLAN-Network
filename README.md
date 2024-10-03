@@ -55,7 +55,6 @@ Refer to the [Lab-2_Mohamed_Khaled.pkt](Lab-2_Mohamed_Khaled.pkt).
 - User: admin
 - Pass:123
 - Privilege: 12345
-- Console: 123456
 
 ## Configuration Files:
 - **Switch 1 (S1)**, **Switch 2 (S2)**, **Router 1 (R1)**, **Router 2 (R2)**, and **Router 3 (R3)** configurations are available in the [Static Route.txt](Static%20Route.txt) file.
