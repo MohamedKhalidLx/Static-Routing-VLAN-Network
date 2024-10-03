@@ -60,11 +60,6 @@ This project configures static routing between three routers and multiple VLANs.
 5. Apply management VLAN settings for device management.
 6. Test connectivity between routers and VLANs.
 
-## How to Use:
-1. Clone the repository: 
-   ```bash
-   git clone https://github.com/YourUsername/Static-Routing-VLAN-Network.git
-
 ## **Contact**
 For any questions or feedback, please contact:
 - **Name**: Mohamed Khaled Mahmoud Sayed
