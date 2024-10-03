@@ -25,6 +25,7 @@ This project configures static routing between three routers and multiple VLANs.
   - `192.168.23.0/30` (R2-R3)
 
 ### Addressing Table:
+Refer to the [Addressing Table.pdf](Addressing%20Table.pdf) for complete IP address assignments, or have a look here:
 
 | **Device** | **Interface**       | **IP Address**         | **Subnet Mask**        | **Description**        |
 |------------|---------------------|------------------------|------------------------|------------------------|
@@ -48,6 +49,13 @@ This project configures static routing between three routers and multiple VLANs.
 | **IT**      | 20          | `192.168.20.0/24`       | IT Department           |
 | **Native**  | 40          | N/A                     | Native VLAN (Trunking)  |
 | **SVI**     | 100         | `192.168.100.0/29`      | Management VLAN         |
+
+### Network Topology:
+Refer to the [Lab-2_Mohamed_Khaled.pkt](Lab-2_Mohamed_Khaled.pkt).
+- User: admin
+- Pass:123
+- Privilege: 12345
+- Console: 123456
 
 ## Configuration Files:
 - **Switch 1 (S1)**, **Switch 2 (S2)**, **Router 1 (R1)**, **Router 2 (R2)**, and **Router 3 (R3)** configurations are available in the [Static Route.txt](Static%20Route.txt) file.
